@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334253891764",
+    "project_id": "chatapplication-10a77",
+    "storage_bucket": "chatapplication-10a77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334253891764:android:3d8c227056cb48ef70b7e1",
+        "android_client_info": {
+          "package_name": "com.pallav.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334253891764-7qrsfsp9v81rblo2grf0ohjk2i2iujqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm8wsNvMKp7xnKLSqE5agcUGGZ792Tf54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334253891764-7qrsfsp9v81rblo2grf0ohjk2i2iujqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
